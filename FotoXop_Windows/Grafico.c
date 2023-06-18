@@ -192,15 +192,15 @@ void gerenciaTeclado(unsigned char key, int mx, int my) {
 }
 
 void opcoes() {
-    printf("Escolha uma opção:\n"
+    printf("Escolha uma opcao:\n"
            " '1' para escurecer a imagem\n"
            " '2' para clarear a imagem\n"
            " '3' para deixar a imagem em escala de cinza\n"
            " '4' para aplicar o filtro de Sobel\n"
-           " '5' para aplicar a detecção de bordas de Laplace\n"
+           " '5' para aplicar a deteccao de bordas de Laplace\n"
            " 'm' para aplicar o Meu Filtro\n"
            " 'o' para voltar a imagem original\n"
-           " 'z' para desfazer a última modificação\n"
+           " 'z' para desfazer a ultima modificacao\n"
            " 's' para salvar a imagem atual\n"
            " 'x' para encerrar o programa\n");
 }

@@ -14,7 +14,7 @@ int main(int argc, char *argv[]) {
         strcpy(nomeArq, argv[1]);
     }
     else {
-        printf("Digite o nome do arquivo ppm: ");
+        printf("Digite o endereço do arquivo ppm: ");
         scanf("%99s[^\n]", nomeArq);
     }
     imagem = carregaImagem(nomeArq);
