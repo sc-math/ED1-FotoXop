@@ -10,12 +10,12 @@ O projeto se trata de um programa que é possivel abrir uma imagem e aplicar fil
 
 Imagem Original e Imagem com Filtro de Escurecer 60%
 
-!(https://raw.githubusercontent.com/sc-math/ED1-FotoXop/main/FotoXop_Windows/imgs/sem-filtro/Foto3.png) !(https://raw.githubusercontent.com/sc-math/ED1-FotoXop/main/FotoXop_Windows/imgs/com-filtro/Foto3-Escurecer60.jpg)
+![Imagem de uma menina de Anime](https://raw.githubusercontent.com/sc-math/ED1-FotoXop/main/FotoXop_Windows/imgs/sem-filtro/Foto3.png) ![Imagem de uma menina de Anime com filtro aplicado](https://raw.githubusercontent.com/sc-math/ED1-FotoXop/main/FotoXop_Windows/imgs/com-filtro/Foto3-Escurecer60.jpg)
 
 Imagem Original e Imagem com o Filtro que eu Criei
 
-!(https://raw.githubusercontent.com/sc-math/ED1-FotoXop/main/FotoXop_Windows/imgs/sem-filtro/Foto8.png) !(https://raw.githubusercontent.com/sc-math/ED1-FotoXop/main/FotoXop_Windows/imgs/com-filtro/Foto8-MeuFiltro.jpg)
+![Desenho de uma menina](https://raw.githubusercontent.com/sc-math/ED1-FotoXop/main/FotoXop_Windows/imgs/sem-filtro/Foto8.png) ![Desenho de uma menina com o meu filtro aplicado](https://raw.githubusercontent.com/sc-math/ED1-FotoXop/main/FotoXop_Windows/imgs/com-filtro/Foto8-MeuFiltro.png)
 
 Imagem Original e Imagem com o Filtro de Laplace
 
-!(https://raw.githubusercontent.com/sc-math/ED1-FotoXop/main/FotoXop_Windows/imgs/sem-filtro/Foto4.png) !(https://raw.githubusercontent.com/sc-math/ED1-FotoXop/main/FotoXop_Windows/imgs/com-filtro/Foto4-Laplace.jpg)
+![Imagem de uma menina na cidade](https://raw.githubusercontent.com/sc-math/ED1-FotoXop/main/FotoXop_Windows/imgs/sem-filtro/Foto4.png) ![Imagem de uma menina na cidade com o filtro de Laplace aplicado](https://raw.githubusercontent.com/sc-math/ED1-FotoXop/main/FotoXop_Windows/imgs/com-filtro/Foto4-Laplace.jpg)
