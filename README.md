@@ -17,6 +17,7 @@ The program allows opening `.ppm` images and applying various filters by directl
 | ![Original](FotoXop_Windows/imgs/sem-filtro/Foto3.png) | Darken (60%) | ![Result](FotoXop_Windows/imgs/com-filtro/Foto3-Escurecer60.jpg) |
 | ![Original](FotoXop_Windows/imgs/sem-filtro/Foto4.png) | Laplace | ![Result](FotoXop_Windows/imgs/com-filtro/Foto4-Laplace.jpg) |
 | ![Original](FotoXop_Windows/imgs/sem-filtro/Foto8.png) | MyFilter | ![Result](FotoXop_Windows/imgs/com-filtro/Foto8-MeuFiltro.png) |
+
 *MyFilter: A filter I created that swaps the RGB channels of each pixel (Red → Green, Green → Blue, Blue → Red), producing a greenish effect.*
 
 ---
